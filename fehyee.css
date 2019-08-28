@@ -1,0 +1,29 @@
+body{
+    background-color: #f4f4f4
+}
+
+h1{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 350%;
+  }
+  p  {
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+}
+h3{
+    color: blue ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 160%;
+}
+tr{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 160%;
+}
+th{
+    color: blue ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+}
